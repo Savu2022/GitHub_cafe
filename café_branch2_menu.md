@@ -1,4 +1,4 @@
-# Cafe Branch 1 menu
+# Joe’s café – branch2 menu
 
 # Drinks
 
